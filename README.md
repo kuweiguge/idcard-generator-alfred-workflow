@@ -1,0 +1,2 @@
+# idcard-generator-alfred-workflow
+alfred的随机身份证号码生成器workflow，保证通过HuTool的IdCardUtil的校验
